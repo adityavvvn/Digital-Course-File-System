@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 <h1 align="center">
-    SCHOOL MANAGEMENT SYSTEM
+    Amrita Digital Course File System
 </h1>
 
 <h3 align="center">
